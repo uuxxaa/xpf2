@@ -1,0 +1,272 @@
+﻿{
+  // Window
+  "SparkWindow_Title_Background" : "Black",
+  "SparkWindow_Title_Foreground" : "White",
+  "SparkWindow_Title_GitGlyph_VSTS" : "#ff87B8ff",
+  "SparkWindow_Title_GitGlyph_GitHub" : "White",
+  "SparkWindow_Border" : "DodgerBlue",
+
+  // Window Minimize, Maximize, Restore Buttons
+  "SparkWindow_Button_BorderThickness": 0,
+  "SparkWindow_Button_Border": "#000",
+  "SparkWindow_Button_Background": "Transparent",
+  "SparkWindow_Button_Foreground": "#ffe9e9e9",
+
+  "SparkWindow_Button_IsMouseOver_BorderThickness": 0,
+  "SparkWindow_Button_IsMouseOver_Border": "#000",
+  "SparkWindow_Button_IsMouseOver_Background": "#ff2e2e2e",
+  "SparkWindow_Button_IsMouseOver_Foreground": "#ffe9e9e9",
+
+  "SparkWindow_Button_IsPressed_BorderThickness": 0,
+  "SparkWindow_Button_IsPressed_Border": "#000",
+  "SparkWindow_Button_IsPressed_Background": "#ff3e3e3e",
+  "SparkWindow_Button_IsPressed_Foreground": "#ffe9e9e9",
+
+  // Window Close Button
+  "SparkWindow_CloseButton_BorderThickness": 0,
+  "SparkWindow_CloseButton_Border": "#000",
+  "SparkWindow_CloseButton_Background": "Transparent",
+  "SparkWindow_CloseButton_Foreground": "#ffe9e9e9",
+
+  "SparkWindow_CloseButton_IsMouseOver_BorderThickness": 0,
+  "SparkWindow_CloseButton_IsMouseOver_Border": "#000",
+  "SparkWindow_CloseButton_IsMouseOver_Background": "#ffff4444",
+  "SparkWindow_CloseButton_IsMouseOver_Foreground": "White",
+
+  "SparkWindow_CloseButton_IsPressed_BorderThickness": 0,
+  "SparkWindow_CloseButton_IsPressed_Border": "#000",
+  "SparkWindow_CloseButton_IsPressed_Background": "#ffff0e0e",
+  "SparkWindow_CloseButton_IsPressed_Foreground": "White",
+
+  // ClientArea
+  "SparkWindow_ClientArea_Background" : "#ff1e1e1e",
+  "SparkWindow_ClientArea_Foreground" : "White",
+  "SparkWindow_ClientArea_Error_Foreground" : "Tomato",
+
+  // SwitchBox
+  "SwitchBox_Selector": "#F03EB0FF",
+  "SwitchBox_Selector_Foreground": "Black",
+  "SwitchBox_Foreground": "LightGray",
+  "SwitchBox_Background": "#ff1e1e1e",
+
+  // Toolbar buttons
+  "ToolbarButton_BorderThickness": 0,
+  "ToolbarButton_Border": "Transparent",
+  "ToolbarButton_Foreground": "LightGray",
+  "ToolbarButton_Background": "#10ffffff",
+  "ToolbarButton_Background_IsMouseOver": "#ff2e2e2e",
+  "ToolbarButton_Background_IsFocused": "#ff2e2e2e",
+  "ToolbarButton_Background_IsPressed": "#ff3e3e3e",
+  "ToolbarButton_Background_Toggled": "#F03EB0FF",
+  "ToolbarButton_Foreground_Toggled": "Black",
+
+  // Toolbar button icons
+  "RefreshIcon_Foreground": "YellowGreen",
+  "RefreshIcon_Foreground_Active": "YellowGreen",
+
+  // ToolTip
+  "ToolTip_BorderThickness": 1,
+  "ToolTip_Border": "#20ffffff",
+  "ToolTip_Background": "#ff4e4e4e",
+  "ToolTip_Foreground": "#feee",
+
+  // GridSplitter
+  "GridSplitter_Background": "Black",
+  "GridSplitter_Border": "Black",
+
+  // Menu
+  "Menu_Background": "#ff0e0e0e",
+  "Menu_Border": "#20ffffff",
+  "Menu_Commit_Foreground": "LightYellow",
+  "Menu_Disabled_Foreground": "#ff696969",
+  "Menu_Foreground": "#ffe9e9e9",
+  "Menu_Icon_Separator": "Transparent",
+  "Menu_Revert_Foreground": "Tomato",
+  "Menu_Selected_Background": "#30ffffff",
+  "Menu_Selected_Border": "#20ffffff",
+  "Menu_Selected_CheckMark_Background": "#10ffffff",
+  "Menu_Selected_CheckMark_Border": "#20ffffff",
+  "Menu_Selected_CheckMark_Thickness": 0,
+  "Menu_Separator": "#ff4e4e4e",
+
+  // HelpPanel.xaml
+  "Help_Background": "#ff1e1e1e",
+  "Help_CodeBackground": "#ff242424",
+  "Help_Foreground": "#ffe9e9e9",
+
+  // LogPanel.xaml
+  "LogPanel_Borders": "#ff202020",
+  "LogPanel_Background": "#ff101010",
+
+  // LogPanel - CommitDescription
+  "CommitDescription_Foreground": "White",
+  "CommitDescription_Title_Foreground": "LightYellow",
+  "CommitDescription_Loading_Foreground": "YellowGreen",
+  "CommitDescription_NoFiles_Foreground": "YellowGreen",
+  "CommitDescription_Link_Foreground": "DodgerBlue",
+  "CommitDescription_Link_Foreground_IsMouseOver": "DeepSkyBlue",
+
+  // DataGrid
+  "DataGrid_Background": "#ff161616",
+  "DataGrid_Background2": "#ff262626",
+  "DataGrid_ColumnBackground": "#ff101010",
+  "DataGrid_ColumnForeground": "White",
+  "DataGrid_ColumnSplitter": "Black",
+  "DataGrid_ColumnSplitterOnHover": "White",
+  "DataGrid_CellForeground": "White",
+  "DataGrid_ExpandBackground": "#405f5f5f",
+  "DataGrid_ExpandForeground": "#40ffffff",
+  "DataGrid_ExpandingForeground": "#ff1e9e1e",
+  "DataGrid_Selecting_Background": "#4000BFFF",
+  "DataGrid_Selected_Background": "#4000BFFF",
+
+  // CommitWindow - GridSplitter
+  "CommitWindow_GridSplitter_Background": "Transparent",
+  "CommitWindow_GridSplitter_Border": "Transparent",
+
+  // TreePanel
+  "TreePanel_Border": "#ff202020",
+  "TreePanel_Background": "#ff101010",
+  "TreePanel_Foreground": "LightGray",
+  "TreeNode_Foreground": "White",
+  "TreeNode_Background": "Transparent",
+  "TreeNode_Foreground_Selected": "White",
+  "TreeNode_Background_Selected": "#4000BFFF",
+  "TreeNode_Marked_Background0": "#801E90FF",
+  "TreeNode_Marked_Background1": "#80007000",
+  "TreeNode_Marked_Background2": "#80BF2307",
+  "TreeNode_TypedownLookupMatch_Background": "#ffcf3994",
+
+  "GitRoot_Background": "#ff1c1c1c",
+  "GitRoot_Foreground": "LightSkyBlue",
+  "GitRoot_Selected_Foreground": "White",
+  "GitFolder_Foreground": "LightGray",
+  "GitFolder_Background": "#ff1e1e1e",
+  "GitFolder_Selected_Foreground": "White",
+  "GitFile_Foreground": "#ffd1d1d1",
+  "GitFile_Background": null,
+  "GitFile_Selected_Foreground": "White",
+  "GitFile_Modified_Foreground": "Black",
+  "GitFile_Modified_Selected_Foreground": "White",
+  "GitFiles_Status_FileCount_Foreground": "#ffc6c6c6",
+
+  "GitDiffStatus_Modified": "Orange",
+  "GitDiffStatus_Added": "ForestGreen",
+  "GitDiffStatus_Deleted": "Tomato",
+  "GitDiffStatus_RenamedIdentical": "Olive",
+  "GitDiffStatus_RenamedDifferent": "LightCoral",
+  "GitDiffStatus_Unmerged":"DarkRed",
+  "GitDiffStatus_Untracked":"LimeGreen",
+  "GitDiffStatus_Description":"#ff868686",
+  "GitDiffStatus_Selected":"Black",
+  "GitDiffStatus_Stashed": "Orange",
+
+  // TextPanel
+  "TextPanel_Description_Foregound": "DarkGray",
+  "TextPanel_Border": "#ff202020",
+  "TextPanel_Background": "#ff101010",
+  "TextPanel_Foreground": "LightGray",
+  "TextPanel_Gutter": "Transparent",
+  "TextPanel_Gutter_Shadow0": "Black",
+  "TextPanel_Gutter_Shadow1": "#00000000",
+  "TextPanel_Gutter_Foreground": "Azure",
+  "TextPanel_Caret0": "White",
+  "TextPanel_Caret1": "#ff404040",
+  "TextPanel_Caret_Thickness": 1.5,
+  "TextPanel_Caret_Duration": 1000,
+  "TextPanel_Selection_Background": "#402098F7",
+  "TextPanel_Found_Word": "#20ffffff",
+
+  // TextPanel
+  "Diff_EmptyFile_Foreground": "LightYellow",
+
+  "Diff_Line_Add_Background": "#ff123412",
+  "Diff_Line_Delete_Background": "#ff722525",
+  "Diff_Line_AddModified_Background": "#ff0D260D",
+  "Diff_Line_DeleteModified_Background": "#40A52A2A",
+  "Diff_Line_RemovedLine_Hatch": "DarkGray",
+  "Diff_Line_SnipLine": "White",
+
+  "Diff_Line_Add_Overlay": "Green",
+  "Diff_Line_Delete_Overlay": "DarkRed",
+  "Diff_Line_AddModified_Overlay": "Green",
+  "Diff_Line_DeleteModified_Overlay": "DarkRed",
+
+  "Diff_LinePart_Add_Background": "#ff123412",
+  "Diff_LinePart_Delete_Background": "#ff722525",
+  "Diff_LinePart_Modified_Background": "#ffD7D750",
+
+  "Editor_Background": "#ff101010",
+  "Editor_Foreground": "#e4e4e4",
+
+  "Editor_BOM_Foreground": "#806464AA",
+  "Editor_Whitespace_Foreground": "#606464AA",
+  "Editor_TrailingWhitespace_Foreground": "Red",
+  "Editor_Newline_Foreground": "#AAFFA500",
+  "Editor_Focus_BorderPen": "#ff808080",
+
+  "Editor_GitInfo": "Gainsboro",
+  "Editor_Keyword_C_This": "#6020AFFF",
+  "Editor_Keyword_C_New": "#FF00AFFF",
+  "Editor_Keyword_C_Language": "#FF008FCF",
+  "Editor_Keyword_C_Branching": "Orchid",
+  "Editor_Keyword_C_Annotation": "LightSkyBlue",
+  "Editor_Keyword_C_Char": "DarkSalmon",
+  "Editor_Keyword_C_String": "LightSalmon",
+  "Editor_Keyword_C_Number": "#795E26",
+  "Editor_Keyword_C_Comment": "Green",
+  "Editor_Keyword_C_Operator": "White",
+
+  "Editor_Keyword_Json_Colon": "White",
+  "Editor_Keyword_Json_ValueString": "Coral",
+  "Editor_Keyword_Json_String": "Lavender",
+  "Editor_Keyword_Json_Comment": "LightGreen",
+
+  "Editor_Keyword_Xml_Element": "LightSkyBlue",
+  "Editor_Keyword_Xml_Attribute": "Lavender",
+  "Editor_Keyword_Xml_Equal": "LightGray",
+  "Editor_Keyword_Xml_NameDot": "LightGray",
+  "Editor_Keyword_Xml_NamespaceColon": "LightGray",
+  "Editor_Keyword_Xml_String": "LightSalmon",
+  "Editor_Keyword_Xml_Comment": "LightGreen",
+
+  "Editor_Keyword_Parenthesis0": "PowderBlue",
+  "Editor_Keyword_Parenthesis1": "Gold",
+  "Editor_Keyword_Parenthesis2": "HotPink",
+  "Editor_Keyword_Parenthesis3": "DodgerBlue",
+  "Editor_Keyword_Parenthesis4": "PeachPuff",
+  "Editor_Keyword_Parenthesis5": "Salmon",
+
+  // Commit panel
+  "CommitPanel_Label": "#ffe4e4e4",
+  "CommitPanel_TextBox_Background": "#ff202020",
+  "CommitPanel_TextBox_Foreground": "White",
+  "CommitPanel_TextBox_Caret": "AliceBlue",
+  "CommitPanel_CommitButton_Background": "#2f5f00",
+  "CommitPanel_CommitButton_Foreground": "LightGray",
+  "CommitPanel_CancelButton_Background": "#5f001f",
+  "CommitPanel_CancelButton_Foreground": "LightGray",
+
+  // Button
+  "Button_Background": "#ff1e1e1e",
+  "Button_Border": "#ff3e3e3e",
+  "Button_BorderThickness": 1,
+  "Button_Foreground": "#ffe9e9e9",
+
+  "Button_IsDefaulted_Border": "DodgerBlue",
+
+  "Button_IsFocused_Background": "#ff2e2e2e",
+  "Button_IsFocused_Border":  "#ff3e3e3e",
+  "Button_IsFocused_BorderThickness": 1,
+  "Button_IsFocused_Foreground": "#ffe9e9e9",
+
+  "Button_IsMouseOver_Background": "#ff2e2e2e",
+  "Button_IsMouseOver_Border": "#ff3e3e3e",
+  "Button_IsMouseOver_BorderThickness": 1,
+  "Button_IsMouseOver_Foreground": "#ffe9e9e9",
+
+  "Button_IsPressed_Background": "#ff3e3e3e",
+  "Button_IsPressed_Border": "#ff3e3e3e",
+  "Button_IsPressed_BorderThickness": 1,
+  "Button_IsPressed_Foreground": "#ffe9e9e9"
+}
